@@ -2,4 +2,4 @@
 
 Hello everibody!!
 
-Zero here, im star to coding!!
+Zero here, im starting to coding!!
